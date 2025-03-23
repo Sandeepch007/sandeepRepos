@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularGrid", "AngularGrid\AngularGrid.csproj", "{A1091649-7DDC-4B6F-AA35-DDC1750BA127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridBallayer", "GridBallayer\GridBallayer.csproj", "{0A99864A-5374-4C1A-B1EF-ECF9DEA7EF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Griddallayer", "Griddallayer\Griddallayer.csproj", "{67A984CB-B944-429E-BD3A-EC948D160209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "property", "property\property.csproj", "{3284733C-FB33-48CA-98EE-D02E8BB91A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1091649-7DDC-4B6F-AA35-DDC1750BA127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1091649-7DDC-4B6F-AA35-DDC1750BA127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1091649-7DDC-4B6F-AA35-DDC1750BA127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1091649-7DDC-4B6F-AA35-DDC1750BA127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A99864A-5374-4C1A-B1EF-ECF9DEA7EF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A99864A-5374-4C1A-B1EF-ECF9DEA7EF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A99864A-5374-4C1A-B1EF-ECF9DEA7EF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A99864A-5374-4C1A-B1EF-ECF9DEA7EF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A984CB-B944-429E-BD3A-EC948D160209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A984CB-B944-429E-BD3A-EC948D160209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A984CB-B944-429E-BD3A-EC948D160209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A984CB-B944-429E-BD3A-EC948D160209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3284733C-FB33-48CA-98EE-D02E8BB91A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3284733C-FB33-48CA-98EE-D02E8BB91A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3284733C-FB33-48CA-98EE-D02E8BB91A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3284733C-FB33-48CA-98EE-D02E8BB91A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

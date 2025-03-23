@@ -1,0 +1,12 @@
+E:\sandeepvisualstudio\AngularGrid\property\bin\Debug\net8.0\property.deps.json
+E:\sandeepvisualstudio\AngularGrid\property\bin\Debug\net8.0\property.dll
+E:\sandeepvisualstudio\AngularGrid\property\bin\Debug\net8.0\property.pdb
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\property.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\property.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\property.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\property.AssemblyInfo.cs
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\property.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\property.dll
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\refint\property.dll
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\property.pdb
+E:\sandeepvisualstudio\AngularGrid\property\obj\Debug\net8.0\ref\property.dll

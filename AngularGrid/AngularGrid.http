@@ -1,0 +1,6 @@
+@AngularGrid_HostAddress = http://localhost:5079
+
+GET {{AngularGrid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
