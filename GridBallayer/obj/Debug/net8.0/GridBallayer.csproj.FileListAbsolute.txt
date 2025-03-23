@@ -1,0 +1,17 @@
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\bin\Debug\net8.0\GridBallayer.deps.json
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\bin\Debug\net8.0\GridBallayer.dll
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\bin\Debug\net8.0\GridBallayer.pdb
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\bin\Debug\net8.0\Griddallayer.dll
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\bin\Debug\net8.0\Griddallayer.pdb
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\GridBallayer.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\GridBallayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\GridBallayer.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\GridBallayer.AssemblyInfo.cs
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\GridBallayer.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\GridBall.DA3353B7.Up2Date
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\GridBallayer.dll
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\refint\GridBallayer.dll
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\GridBallayer.pdb
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\obj\Debug\net8.0\ref\GridBallayer.dll
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\bin\Debug\net8.0\property.dll
+E:\sandeepvisualstudio\AngularGrid\GridBallayer\bin\Debug\net8.0\property.pdb

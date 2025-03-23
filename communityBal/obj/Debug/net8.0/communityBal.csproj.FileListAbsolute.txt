@@ -1,0 +1,17 @@
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\communityBal.csproj.AssemblyReference.cache
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\communityBal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\communityBal.AssemblyInfoInputs.cache
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\communityBal.AssemblyInfo.cs
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\communityBal.csproj.CoreCompileInputs.cache
+C:\Users\nages\source\repos\Curdoperations\communityBal\bin\Debug\net8.0\communityBal.deps.json
+C:\Users\nages\source\repos\Curdoperations\communityBal\bin\Debug\net8.0\communityBal.dll
+C:\Users\nages\source\repos\Curdoperations\communityBal\bin\Debug\net8.0\communityBal.pdb
+C:\Users\nages\source\repos\Curdoperations\communityBal\bin\Debug\net8.0\communityDal.dll
+C:\Users\nages\source\repos\Curdoperations\communityBal\bin\Debug\net8.0\communitymodels.dll
+C:\Users\nages\source\repos\Curdoperations\communityBal\bin\Debug\net8.0\communityDal.pdb
+C:\Users\nages\source\repos\Curdoperations\communityBal\bin\Debug\net8.0\communitymodels.pdb
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\communit.58BB6EE8.Up2Date
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\communityBal.dll
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\refint\communityBal.dll
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\communityBal.pdb
+C:\Users\nages\source\repos\Curdoperations\communityBal\obj\Debug\net8.0\ref\communityBal.dll

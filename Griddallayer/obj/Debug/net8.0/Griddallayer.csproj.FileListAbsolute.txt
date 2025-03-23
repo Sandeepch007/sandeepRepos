@@ -1,0 +1,15 @@
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\bin\Debug\net8.0\Griddallayer.deps.json
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\bin\Debug\net8.0\Griddallayer.dll
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\bin\Debug\net8.0\Griddallayer.pdb
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\Griddallayer.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\Griddallayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\Griddallayer.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\Griddallayer.AssemblyInfo.cs
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\Griddallayer.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\Griddall.DA00CEDD.Up2Date
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\Griddallayer.dll
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\refint\Griddallayer.dll
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\Griddallayer.pdb
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\obj\Debug\net8.0\ref\Griddallayer.dll
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\bin\Debug\net8.0\property.dll
+E:\sandeepvisualstudio\AngularGrid\Griddallayer\bin\Debug\net8.0\property.pdb

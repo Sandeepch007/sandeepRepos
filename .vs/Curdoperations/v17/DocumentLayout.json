@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nages\\source\\repos\\Curdoperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitymodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|solutionrelative:communitymodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitymodels\\securityquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|solutionrelative:communitymodels\\securityquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitydal\\contactreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|solutionrelative:communitydal\\contactreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitybal\\projectbal\\projectblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|solutionrelative:communitybal\\projectbal\\projectblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitydal\\projectdal\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|solutionrelative:communitydal\\projectdal\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitydal\\articledal\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|solutionrelative:communitydal\\articledal\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitymodels\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|solutionrelative:communitymodels\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitydal\\forumdal\\forumsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|solutionrelative:communitydal\\forumdal\\forumsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitymodels\\projectsmodel\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|solutionrelative:communitymodels\\projectsmodel\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitymodels\\forumsmodel\\forum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|solutionrelative:communitymodels\\forumsmodel\\forum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitymodels\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|solutionrelative:communitymodels\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitybal\\loginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|solutionrelative:communitybal\\loginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitybal\\articlesbal\\articlesblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|solutionrelative:communitybal\\articlesbal\\articlesblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\controllers\\contactreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\controllers\\contactreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitybal\\contactreviewblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|solutionrelative:communitybal\\contactreviewblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitydal\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E20A-9F01-48D9-8DA3-BD98903B8437}|communityDal\\communityDal.csproj|solutionrelative:communitydal\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitymodels\\articlesmodel\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|solutionrelative:communitymodels\\articlesmodel\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitymodels\\forumsmodel\\forumsreply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682E52B-5A2F-45CD-A07F-FCB91EEB123A}|communitymodels\\communitymodels.csproj|solutionrelative:communitymodels\\forumsmodel\\forumsreply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\controllers\\forumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\controllers\\forumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\communitybal\\forumsbal\\forumsblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB42AB5-8BA4-4EF3-BE6D-C4C964717E8B}|communityBal\\communityBal.csproj|solutionrelative:communitybal\\forumsbal\\forumsblogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\curdoperations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\curdoperations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|c:\\users\\nages\\source\\repos\\curdoperations\\curdoperations\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D37CDD91-E4DA-4EC2-AAFC-DB97DFDBD597}|Curdoperations\\Curdoperations.csproj|solutionrelative:curdoperations\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "communitymodels\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\AppDbContext.cs",
+              "RelativeToolTip": "communitymodels\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:04:16.68Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Curdoperations\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Curdoperations\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:48:34.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectBLogic.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\ProjectBal\\ProjectBLogic.cs",
+              "RelativeDocumentMoniker": "communityBal\\ProjectBal\\ProjectBLogic.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\ProjectBal\\ProjectBLogic.cs",
+              "RelativeToolTip": "communityBal\\ProjectBal\\ProjectBLogic.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:43:22.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\ProjectDal\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "communityDal\\ProjectDal\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\ProjectDal\\ProjectRepository.cs",
+              "RelativeToolTip": "communityDal\\ProjectDal\\ProjectRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:20:17.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Projectsmodel\\Project.cs",
+              "RelativeDocumentMoniker": "communitymodels\\Projectsmodel\\Project.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Projectsmodel\\Project.cs",
+              "RelativeToolTip": "communitymodels\\Projectsmodel\\Project.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:16:37.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForumsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\ForumDal\\ForumsRepository.cs",
+              "RelativeDocumentMoniker": "communityDal\\ForumDal\\ForumsRepository.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\ForumDal\\ForumsRepository.cs",
+              "RelativeToolTip": "communityDal\\ForumDal\\ForumsRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:58:55.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Curdoperations\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Curdoperations\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:49:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactreviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\ContactreviewRepository.cs",
+              "RelativeDocumentMoniker": "communityDal\\ContactreviewRepository.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\ContactreviewRepository.cs",
+              "RelativeToolTip": "communityDal\\ContactreviewRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:10:56.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\ArticleDal\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "communityDal\\ArticleDal\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\ArticleDal\\ArticleRepository.cs",
+              "RelativeToolTip": "communityDal\\ArticleDal\\ArticleRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwF4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:30:04.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactreviewBlogic.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\ContactreviewBlogic.cs",
+              "RelativeDocumentMoniker": "communityBal\\ContactreviewBlogic.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\ContactreviewBlogic.cs",
+              "RelativeToolTip": "communityBal\\ContactreviewBlogic.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:17:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArticlesBLogic.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\ArticlesBal\\ArticlesBLogic.cs",
+              "RelativeDocumentMoniker": "communityBal\\ArticlesBal\\ArticlesBLogic.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\ArticlesBal\\ArticlesBLogic.cs",
+              "RelativeToolTip": "communityBal\\ArticlesBal\\ArticlesBLogic.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:35:43.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Contact.cs",
+              "RelativeDocumentMoniker": "communitymodels\\Contact.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Contact.cs",
+              "RelativeToolTip": "communitymodels\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:11:49.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginBal.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\LoginBal.cs",
+              "RelativeDocumentMoniker": "communityBal\\LoginBal.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\LoginBal.cs",
+              "RelativeToolTip": "communityBal\\LoginBal.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T04:50:38.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Forum.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Forumsmodel\\Forum.cs",
+              "RelativeDocumentMoniker": "communitymodels\\Forumsmodel\\Forum.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Forumsmodel\\Forum.cs",
+              "RelativeToolTip": "communitymodels\\Forumsmodel\\Forum.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:00:31.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\ContactReviewController.cs",
+              "RelativeDocumentMoniker": "Curdoperations\\Controllers\\ContactReviewController.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\ContactReviewController.cs",
+              "RelativeToolTip": "Curdoperations\\Controllers\\ContactReviewController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:36:08.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Curdoperations\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Curdoperations\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:17:58.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\appsettings.json",
+              "RelativeDocumentMoniker": "Curdoperations\\appsettings.json",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\appsettings.json",
+              "RelativeToolTip": "Curdoperations\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T08:54:49.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Login.cs",
+              "RelativeDocumentMoniker": "communitymodels\\Login.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Login.cs",
+              "RelativeToolTip": "communitymodels\\Login.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T04:50:41.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "communityDal\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityDal\\LoginRepository.cs",
+              "RelativeToolTip": "communityDal\\LoginRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:17:12.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Articles.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Articlesmodel\\Articles.cs",
+              "RelativeDocumentMoniker": "communitymodels\\Articlesmodel\\Articles.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Articlesmodel\\Articles.cs",
+              "RelativeToolTip": "communitymodels\\Articlesmodel\\Articles.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:29:57.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\SecurityQuestions.cs",
+              "RelativeDocumentMoniker": "communitymodels\\SecurityQuestions.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\SecurityQuestions.cs",
+              "RelativeToolTip": "communitymodels\\SecurityQuestions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:23:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Program.cs",
+              "RelativeDocumentMoniker": "Curdoperations\\Program.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Program.cs",
+              "RelativeToolTip": "Curdoperations\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:08:59.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ForumsReply.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Forumsmodel\\ForumsReply.cs",
+              "RelativeDocumentMoniker": "communitymodels\\Forumsmodel\\ForumsReply.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communitymodels\\Forumsmodel\\ForumsReply.cs",
+              "RelativeToolTip": "communitymodels\\Forumsmodel\\ForumsReply.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:06:14.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ForumsController.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\ForumsController.cs",
+              "RelativeDocumentMoniker": "Curdoperations\\Controllers\\ForumsController.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Controllers\\ForumsController.cs",
+              "RelativeToolTip": "Curdoperations\\Controllers\\ForumsController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAowMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:21:11.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ForumsBLogic.cs",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\ForumsBal\\ForumsBLogic.cs",
+              "RelativeDocumentMoniker": "communityBal\\ForumsBal\\ForumsBLogic.cs",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\communityBal\\ForumsBal\\ForumsBLogic.cs",
+              "RelativeToolTip": "communityBal\\ForumsBal\\ForumsBLogic.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:59:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Curdoperations.csproj",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Curdoperations.csproj",
+              "RelativeDocumentMoniker": "Curdoperations\\Curdoperations.csproj",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Curdoperations.csproj",
+              "RelativeToolTip": "Curdoperations\\Curdoperations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T09:16:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Curdoperations\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nages\\source\\repos\\Curdoperations\\Curdoperations\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Curdoperations\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T06:52:13.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

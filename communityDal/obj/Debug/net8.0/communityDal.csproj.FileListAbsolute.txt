@@ -1,0 +1,15 @@
+C:\Users\nages\source\repos\Curdoperations\communityDal\bin\Debug\net8.0\communityDal.deps.json
+C:\Users\nages\source\repos\Curdoperations\communityDal\bin\Debug\net8.0\communityDal.dll
+C:\Users\nages\source\repos\Curdoperations\communityDal\bin\Debug\net8.0\communityDal.pdb
+C:\Users\nages\source\repos\Curdoperations\communityDal\bin\Debug\net8.0\communitymodels.dll
+C:\Users\nages\source\repos\Curdoperations\communityDal\bin\Debug\net8.0\communitymodels.pdb
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\communityDal.csproj.AssemblyReference.cache
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\communityDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\communityDal.AssemblyInfoInputs.cache
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\communityDal.AssemblyInfo.cs
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\communityDal.csproj.CoreCompileInputs.cache
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\communit.60416EE8.Up2Date
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\communityDal.dll
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\refint\communityDal.dll
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\communityDal.pdb
+C:\Users\nages\source\repos\Curdoperations\communityDal\obj\Debug\net8.0\ref\communityDal.dll
