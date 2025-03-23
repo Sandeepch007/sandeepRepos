@@ -1,0 +1,15 @@
+E:\sandeepvisualstudio\HospitalApplication\HDal\bin\Debug\net8.0\HDal.deps.json
+E:\sandeepvisualstudio\HospitalApplication\HDal\bin\Debug\net8.0\HDal.dll
+E:\sandeepvisualstudio\HospitalApplication\HDal\bin\Debug\net8.0\HDal.pdb
+E:\sandeepvisualstudio\HospitalApplication\HDal\bin\Debug\net8.0\HModels.dll
+E:\sandeepvisualstudio\HospitalApplication\HDal\bin\Debug\net8.0\HModels.pdb
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\HDal.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\HDal.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\HDal.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\HDal.AssemblyInfo.cs
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\HDal.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\HDal.csproj.Up2Date
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\HDal.dll
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\refint\HDal.dll
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\HDal.pdb
+E:\sandeepvisualstudio\HospitalApplication\HDal\obj\Debug\net8.0\ref\HDal.dll

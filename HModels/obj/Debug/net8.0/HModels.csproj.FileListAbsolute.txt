@@ -1,0 +1,12 @@
+E:\sandeepvisualstudio\HospitalApplication\HModels\bin\Debug\net8.0\HModels.deps.json
+E:\sandeepvisualstudio\HospitalApplication\HModels\bin\Debug\net8.0\HModels.dll
+E:\sandeepvisualstudio\HospitalApplication\HModels\bin\Debug\net8.0\HModels.pdb
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\HModels.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\HModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\HModels.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\HModels.AssemblyInfo.cs
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\HModels.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\HModels.dll
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\refint\HModels.dll
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\HModels.pdb
+E:\sandeepvisualstudio\HospitalApplication\HModels\obj\Debug\net8.0\ref\HModels.dll

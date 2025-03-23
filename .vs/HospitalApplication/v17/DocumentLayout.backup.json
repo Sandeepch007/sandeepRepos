@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sandeepvisualstudio\\HospitalApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A198454A-C2A3-478C-A3BC-BEA4B3494059}|HModels\\HModels.csproj|e:\\sandeepvisualstudio\\hospitalapplication\\hmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A198454A-C2A3-478C-A3BC-BEA4B3494059}|HModels\\HModels.csproj|solutionrelative:hmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F770AA3F-74BB-41B4-9B26-64CBCBB87508}|HDal\\HDal.csproj|e:\\sandeepvisualstudio\\hospitalapplication\\hdal\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F770AA3F-74BB-41B4-9B26-64CBCBB87508}|HDal\\HDal.csproj|solutionrelative:hdal\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F880BB-3B0F-4D73-A877-937FC7A6E56D}|HospitalApplication\\HospitalApplication.csproj|e:\\sandeepvisualstudio\\hospitalapplication\\hospitalapplication\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F880BB-3B0F-4D73-A877-937FC7A6E56D}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CAEF8B-6A69-4776-9A1C-0D161C209E82}|HBal\\HBal.csproj|e:\\sandeepvisualstudio\\hospitalapplication\\hbal\\hospitallogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CAEF8B-6A69-4776-9A1C-0D161C209E82}|HBal\\HBal.csproj|solutionrelative:hbal\\hospitallogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A198454A-C2A3-478C-A3BC-BEA4B3494059}|HModels\\HModels.csproj|e:\\sandeepvisualstudio\\hospitalapplication\\hmodels\\securityquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A198454A-C2A3-478C-A3BC-BEA4B3494059}|HModels\\HModels.csproj|solutionrelative:hmodels\\securityquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A198454A-C2A3-478C-A3BC-BEA4B3494059}|HModels\\HModels.csproj|e:\\sandeepvisualstudio\\hospitalapplication\\hmodels\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A198454A-C2A3-478C-A3BC-BEA4B3494059}|HModels\\HModels.csproj|solutionrelative:hmodels\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F880BB-3B0F-4D73-A877-937FC7A6E56D}|HospitalApplication\\HospitalApplication.csproj|e:\\sandeepvisualstudio\\hospitalapplication\\hospitalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F880BB-3B0F-4D73-A877-937FC7A6E56D}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F880BB-3B0F-4D73-A877-937FC7A6E56D}|HospitalApplication\\HospitalApplication.csproj|e:\\sandeepvisualstudio\\hospitalapplication\\hospitalapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4F880BB-3B0F-4D73-A877-937FC7A6E56D}|HospitalApplication\\HospitalApplication.csproj|solutionrelative:hospitalapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalController.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\HospitalApplication\\HospitalApplication\\Controllers\\HospitalController.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Controllers\\HospitalController.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\HospitalApplication\\HospitalApplication\\Controllers\\HospitalController.cs",
+              "RelativeToolTip": "HospitalApplication\\Controllers\\HospitalController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAEwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:43:38.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\HospitalApplication\\HospitalApplication\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalApplication\\Program.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\HospitalApplication\\HospitalApplication\\Program.cs",
+              "RelativeToolTip": "HospitalApplication\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:21:00.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\HospitalApplication\\HospitalApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalApplication\\appsettings.json",
+              "ToolTip": "E:\\sandeepvisualstudio\\HospitalApplication\\HospitalApplication\\appsettings.json",
+              "RelativeToolTip": "HospitalApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T11:19:04.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\HospitalApplication\\HModels\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "HModels\\HospitalDbContext.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\HospitalApplication\\HModels\\HospitalDbContext.cs",
+              "RelativeToolTip": "HModels\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:17:06.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecurityQuestion.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\HospitalApplication\\HModels\\SecurityQuestion.cs",
+              "RelativeDocumentMoniker": "HModels\\SecurityQuestion.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\HospitalApplication\\HModels\\SecurityQuestion.cs",
+              "RelativeToolTip": "HModels\\SecurityQuestion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:07:38.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\HospitalApplication\\HModels\\Register.cs",
+              "RelativeDocumentMoniker": "HModels\\Register.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\HospitalApplication\\HModels\\Register.cs",
+              "RelativeToolTip": "HModels\\Register.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvwoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:23:23.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalLogic.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\HospitalApplication\\HBal\\HospitalLogic.cs",
+              "RelativeDocumentMoniker": "HBal\\HospitalLogic.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\HospitalApplication\\HBal\\HospitalLogic.cs",
+              "RelativeToolTip": "HBal\\HospitalLogic.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:22:46.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalRepository.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\HospitalApplication\\HDal\\HospitalRepository.cs",
+              "RelativeDocumentMoniker": "HDal\\HospitalRepository.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\HospitalApplication\\HDal\\HospitalRepository.cs",
+              "RelativeToolTip": "HDal\\HospitalRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:22:03.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
