@@ -1,0 +1,12 @@
+C:\Users\nages\source\repos\Curdoperations\communitymodels\bin\Debug\net8.0\communitymodels.deps.json
+C:\Users\nages\source\repos\Curdoperations\communitymodels\bin\Debug\net8.0\communitymodels.dll
+C:\Users\nages\source\repos\Curdoperations\communitymodels\bin\Debug\net8.0\communitymodels.pdb
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\communitymodels.csproj.AssemblyReference.cache
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\communitymodels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\communitymodels.AssemblyInfoInputs.cache
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\communitymodels.AssemblyInfo.cs
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\communitymodels.csproj.CoreCompileInputs.cache
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\communitymodels.dll
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\refint\communitymodels.dll
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\communitymodels.pdb
+C:\Users\nages\source\repos\Curdoperations\communitymodels\obj\Debug\net8.0\ref\communitymodels.dll
