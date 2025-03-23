@@ -1,0 +1,12 @@
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\ProductProperties.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\ProductProperties.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\ProductProperties.AssemblyInfo.cs
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\ProductProperties.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\bin\Debug\net8.0\ProductProperties.deps.json
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\bin\Debug\net8.0\ProductProperties.dll
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\bin\Debug\net8.0\ProductProperties.pdb
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\ProductProperties.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\ProductProperties.dll
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\refint\ProductProperties.dll
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\ProductProperties.pdb
+E:\sandeepvisualstudio\Bangalore2task\ProductProperties\obj\Debug\net8.0\ref\ProductProperties.dll

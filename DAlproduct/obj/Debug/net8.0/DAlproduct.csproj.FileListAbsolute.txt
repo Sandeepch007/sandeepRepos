@@ -1,0 +1,15 @@
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\DAlproduct.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\DAlproduct.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\DAlproduct.AssemblyInfo.cs
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\DAlproduct.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\bin\Debug\net8.0\DAlproduct.deps.json
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\bin\Debug\net8.0\DAlproduct.dll
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\bin\Debug\net8.0\DAlproduct.pdb
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\bin\Debug\net8.0\ProductProperties.dll
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\bin\Debug\net8.0\ProductProperties.pdb
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\DAlproduct.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\DAlproduct.csproj.Up2Date
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\DAlproduct.dll
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\refint\DAlproduct.dll
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\DAlproduct.pdb
+E:\sandeepvisualstudio\Bangalore2task\DAlproduct\obj\Debug\net8.0\ref\DAlproduct.dll

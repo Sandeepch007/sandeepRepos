@@ -1,0 +1,17 @@
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\BalProduct.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\BalProduct.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\BalProduct.AssemblyInfo.cs
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\BalProduct.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\bin\Debug\net8.0\BalProduct.deps.json
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\bin\Debug\net8.0\BalProduct.dll
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\bin\Debug\net8.0\BalProduct.pdb
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\bin\Debug\net8.0\DAlproduct.dll
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\bin\Debug\net8.0\ProductProperties.dll
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\bin\Debug\net8.0\DAlproduct.pdb
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\bin\Debug\net8.0\ProductProperties.pdb
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\BalProduct.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\BalProduct.csproj.Up2Date
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\BalProduct.dll
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\refint\BalProduct.dll
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\BalProduct.pdb
+E:\sandeepvisualstudio\Bangalore2task\BalProduct\obj\Debug\net8.0\ref\BalProduct.dll
