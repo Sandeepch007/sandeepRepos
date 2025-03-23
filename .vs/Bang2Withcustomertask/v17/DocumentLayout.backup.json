@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{090A0618-9904-44B7-8845-807CBFFD1752}|BalProCust\\BalProCust.csproj|e:\\sandeepvisualstudio\\bang2withcustomertask\\balprocust\\procustlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090A0618-9904-44B7-8845-807CBFFD1752}|BalProCust\\BalProCust.csproj|solutionrelative:balprocust\\procustlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CADD385-0120-4A80-BD04-9590158D662A}|PropertiesPROCUST\\PropertiesPROCUST.csproj|e:\\sandeepvisualstudio\\bang2withcustomertask\\propertiesprocust\\procust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CADD385-0120-4A80-BD04-9590158D662A}|PropertiesPROCUST\\PropertiesPROCUST.csproj|solutionrelative:propertiesprocust\\procust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F8A86-E34E-420E-A60E-05F6C6A47DF1}|DalProCust\\DalProCust.csproj|e:\\sandeepvisualstudio\\bang2withcustomertask\\dalprocust\\procustrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4F8A86-E34E-420E-A60E-05F6C6A47DF1}|DalProCust\\DalProCust.csproj|solutionrelative:dalprocust\\procustrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8733AD4D-4557-4E06-9CAA-123FE7712767}|Bang2Withcustomertask\\Bang2Withcustomertask.csproj|e:\\sandeepvisualstudio\\bang2withcustomertask\\bang2withcustomertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8733AD4D-4557-4E06-9CAA-123FE7712767}|Bang2Withcustomertask\\Bang2Withcustomertask.csproj|solutionrelative:bang2withcustomertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8733AD4D-4557-4E06-9CAA-123FE7712767}|Bang2Withcustomertask\\Bang2Withcustomertask.csproj|e:\\sandeepvisualstudio\\bang2withcustomertask\\bang2withcustomertask\\controllers\\procustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8733AD4D-4557-4E06-9CAA-123FE7712767}|Bang2Withcustomertask\\Bang2Withcustomertask.csproj|solutionrelative:bang2withcustomertask\\controllers\\procustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8733AD4D-4557-4E06-9CAA-123FE7712767}|Bang2Withcustomertask\\Bang2Withcustomertask.csproj|e:\\sandeepvisualstudio\\bang2withcustomertask\\bang2withcustomertask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8733AD4D-4557-4E06-9CAA-123FE7712767}|Bang2Withcustomertask\\Bang2Withcustomertask.csproj|solutionrelative:bang2withcustomertask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CADD385-0120-4A80-BD04-9590158D662A}|PropertiesPROCUST\\PropertiesPROCUST.csproj|e:\\sandeepvisualstudio\\bang2withcustomertask\\propertiesprocust\\procustdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CADD385-0120-4A80-BD04-9590158D662A}|PropertiesPROCUST\\PropertiesPROCUST.csproj|solutionrelative:propertiesprocust\\procustdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProCustController.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\Bang2Withcustomertask\\Controllers\\ProCustController.cs",
+              "RelativeDocumentMoniker": "Bang2Withcustomertask\\Controllers\\ProCustController.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\Bang2Withcustomertask\\Controllers\\ProCustController.cs",
+              "RelativeToolTip": "Bang2Withcustomertask\\Controllers\\ProCustController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:37:41.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\Bang2Withcustomertask\\appsettings.json",
+              "RelativeDocumentMoniker": "Bang2Withcustomertask\\appsettings.json",
+              "ToolTip": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\Bang2Withcustomertask\\appsettings.json",
+              "RelativeToolTip": "Bang2Withcustomertask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T06:06:04.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProCustDbcontext.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\PropertiesPROCUST\\ProCustDbcontext.cs",
+              "RelativeDocumentMoniker": "PropertiesPROCUST\\ProCustDbcontext.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\PropertiesPROCUST\\ProCustDbcontext.cs",
+              "RelativeToolTip": "PropertiesPROCUST\\ProCustDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:00:11.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\Bang2Withcustomertask\\Program.cs",
+              "RelativeDocumentMoniker": "Bang2Withcustomertask\\Program.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\Bang2Withcustomertask\\Program.cs",
+              "RelativeToolTip": "Bang2Withcustomertask\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:59:06.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProCust.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\PropertiesPROCUST\\ProCust.cs",
+              "RelativeDocumentMoniker": "PropertiesPROCUST\\ProCust.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\PropertiesPROCUST\\ProCust.cs",
+              "RelativeToolTip": "PropertiesPROCUST\\ProCust.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:58:57.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProCustRepository.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\DalProCust\\ProCustRepository.cs",
+              "RelativeDocumentMoniker": "DalProCust\\ProCustRepository.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\DalProCust\\ProCustRepository.cs",
+              "RelativeToolTip": "DalProCust\\ProCustRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAnwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:58:07.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProCustLogic.cs",
+              "DocumentMoniker": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\BalProCust\\ProCustLogic.cs",
+              "RelativeDocumentMoniker": "BalProCust\\ProCustLogic.cs",
+              "ToolTip": "E:\\sandeepvisualstudio\\Bang2Withcustomertask\\BalProCust\\ProCustLogic.cs",
+              "RelativeToolTip": "BalProCust\\ProCustLogic.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:57:36.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bang2Withcustomertask.props" />
+</Project>

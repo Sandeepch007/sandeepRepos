@@ -1,0 +1,17 @@
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\bin\Debug\net8.0\BalProCust.deps.json
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\bin\Debug\net8.0\BalProCust.dll
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\bin\Debug\net8.0\BalProCust.pdb
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\bin\Debug\net8.0\DalProCust.dll
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\bin\Debug\net8.0\PropertiesPROCUST.dll
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\bin\Debug\net8.0\DalProCust.pdb
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\bin\Debug\net8.0\PropertiesPROCUST.pdb
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\BalProCust.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\BalProCust.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\BalProCust.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\BalProCust.AssemblyInfo.cs
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\BalProCust.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\BalProCust.csproj.Up2Date
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\BalProCust.dll
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\refint\BalProCust.dll
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\BalProCust.pdb
+E:\sandeepvisualstudio\Bang2Withcustomertask\BalProCust\obj\Debug\net8.0\ref\BalProCust.dll

@@ -1,0 +1,6 @@
+@Bang2Withcustomertask_HostAddress = http://localhost:5182
+
+GET {{Bang2Withcustomertask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

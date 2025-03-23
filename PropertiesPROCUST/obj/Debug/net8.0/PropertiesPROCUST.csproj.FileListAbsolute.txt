@@ -1,0 +1,12 @@
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\bin\Debug\net8.0\PropertiesPROCUST.deps.json
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\bin\Debug\net8.0\PropertiesPROCUST.dll
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\bin\Debug\net8.0\PropertiesPROCUST.pdb
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\PropertiesPROCUST.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\PropertiesPROCUST.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\PropertiesPROCUST.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\PropertiesPROCUST.AssemblyInfo.cs
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\PropertiesPROCUST.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\PropertiesPROCUST.dll
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\refint\PropertiesPROCUST.dll
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\PropertiesPROCUST.pdb
+E:\sandeepvisualstudio\Bang2Withcustomertask\PropertiesPROCUST\obj\Debug\net8.0\ref\PropertiesPROCUST.dll
