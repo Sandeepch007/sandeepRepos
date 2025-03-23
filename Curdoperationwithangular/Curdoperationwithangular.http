@@ -1,0 +1,6 @@
+@Curdoperationwithangular_HostAddress = http://localhost:5171
+
+GET {{Curdoperationwithangular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
