@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <ProjectReference Include="..\Dallayer\Dallayer.csproj" />
+  </ItemGroup>
+
+>>>>>>> 9e28a57 (curds)
 </Project>

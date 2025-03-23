@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4withangular", "Task4withangular\Task4withangular.csproj", "{76FDCC8B-9CBD-4128-B22F-9E2E3BD27C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballayer", "Ballayer\Ballayer.csproj", "{BE61D3A1-2F05-4B8F-AEF5-D76E59276B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dallayer", "Dallayer\Dallayer.csproj", "{F80155AC-4F4F-49AE-9A76-F3A3B39B1833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "propertylayer", "propertylayer\propertylayer.csproj", "{46CFB5C8-8364-47A3-B3E5-C807179DAC21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FDCC8B-9CBD-4128-B22F-9E2E3BD27C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FDCC8B-9CBD-4128-B22F-9E2E3BD27C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FDCC8B-9CBD-4128-B22F-9E2E3BD27C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FDCC8B-9CBD-4128-B22F-9E2E3BD27C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE61D3A1-2F05-4B8F-AEF5-D76E59276B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE61D3A1-2F05-4B8F-AEF5-D76E59276B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE61D3A1-2F05-4B8F-AEF5-D76E59276B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE61D3A1-2F05-4B8F-AEF5-D76E59276B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80155AC-4F4F-49AE-9A76-F3A3B39B1833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80155AC-4F4F-49AE-9A76-F3A3B39B1833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80155AC-4F4F-49AE-9A76-F3A3B39B1833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80155AC-4F4F-49AE-9A76-F3A3B39B1833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CFB5C8-8364-47A3-B3E5-C807179DAC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CFB5C8-8364-47A3-B3E5-C807179DAC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CFB5C8-8364-47A3-B3E5-C807179DAC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CFB5C8-8364-47A3-B3E5-C807179DAC21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

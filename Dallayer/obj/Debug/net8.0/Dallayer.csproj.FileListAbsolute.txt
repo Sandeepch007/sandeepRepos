@@ -1,0 +1,15 @@
+E:\sandeepvisualstudio\Task4withangular\Dallayer\bin\Debug\net8.0\Dallayer.deps.json
+E:\sandeepvisualstudio\Task4withangular\Dallayer\bin\Debug\net8.0\Dallayer.dll
+E:\sandeepvisualstudio\Task4withangular\Dallayer\bin\Debug\net8.0\Dallayer.pdb
+E:\sandeepvisualstudio\Task4withangular\Dallayer\bin\Debug\net8.0\propertylayer.dll
+E:\sandeepvisualstudio\Task4withangular\Dallayer\bin\Debug\net8.0\propertylayer.pdb
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\Dallayer.csproj.AssemblyReference.cache
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\Dallayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\Dallayer.AssemblyInfoInputs.cache
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\Dallayer.AssemblyInfo.cs
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\Dallayer.csproj.CoreCompileInputs.cache
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\Dallayer.csproj.Up2Date
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\Dallayer.dll
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\refint\Dallayer.dll
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\Dallayer.pdb
+E:\sandeepvisualstudio\Task4withangular\Dallayer\obj\Debug\net8.0\ref\Dallayer.dll

@@ -1,0 +1,6 @@
+@Task4withangular_HostAddress = http://localhost:5108
+
+GET {{Task4withangular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
